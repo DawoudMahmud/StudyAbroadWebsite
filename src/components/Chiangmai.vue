@@ -1,5 +1,9 @@
 <template>
+<title>hi pleasesaesa</title>
     <h1>Chiang Mai</h1>
+    <h2 class="h2">Chiang Mai is a peaceful city located in northern Thailand. It's one of the oldest cities in the country and used to be the capital in the 1200's.
+      My group and I stayed here for the majority of our trip exploring the mellow city life and beautiful nature Chaing Mai had to offer. I'm extremely grateful to have
+      had this be our home base in Thailand as the city is culturally rich, cheapest in cost of living, and home of the lantern festival.</h2>
 
       <div class = "parentFigureStyle">
           <figure>
@@ -50,9 +54,8 @@ export default {
 </script>
 
 <style scoped>
-.h1{
-    font-size: 35pt;
-    
+.h2{
+  font-size: 16pt;
 }
 .pics{
   

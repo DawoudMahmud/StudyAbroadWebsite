@@ -3,15 +3,20 @@
   <br>
     <div class="subheader">Fall 2021</div>
   </h1>
-<div class="reg">
+<!-- <div class="reg">
   <router-link to="/register"> Register </router-link>
   <router-link to="/login"> Login </router-link>
   <router-link to="/logout"> Logout </router-link>
-</div>
+</div> -->
 <div class="menu">
+  <router-link to = "/home"> Home </router-link>
   <router-link to="/chiangmai"> Chiang Mai </router-link>
   <router-link to="/phuket">Phuket </router-link>
   <router-link to="/pai"> Pai </router-link>
+  <router-link to="/chiangrai"> Chiang Rai </router-link>
+  <router-link to="/krabi"> Krabi </router-link>
+  <router-link to="/samui"> Koh Samui </router-link>
+  <router-link to="/bangkok"> Bangkok </router-link>
   <router-view></router-view>
 </div>
 
@@ -32,7 +37,7 @@ h1{
   padding: 80px;
   background: skyblue;
   border-radius: 5px;
-  scrollbar-gutter: none;
+  
 }
   a {
   background-color: #8893fd; /* Green */

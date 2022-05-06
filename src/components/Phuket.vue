@@ -1,5 +1,9 @@
 <template>
     <h1>Phuket</h1>
+    <h2 class="h2"> Phuket is the largest island in the country located in southern Thailand. This was our first excursion 
+      as a group leaving Chiang Mai. There are many smaller islands off the coast of Phuket giving tourists the oppertunity to
+      go on all kinds of cruises offered by locals. Almost every beach had Thai people offering rentals to jetski, paddleboard, parasail, kayak,
+      and more. Even through covid, this island was very popular and lively.   </h2>
       <div class = "parentFigureStyle">
           <figure>
             <img src="../assets/Phuket/PaddleBoard.jpg">
@@ -39,8 +43,8 @@ export default {
 </script>
 
 <style scoped>
-.h1{
-    font-size: 35pt;
+.h2{
+    font-size: 16pt;
     
 }
 .pics{
