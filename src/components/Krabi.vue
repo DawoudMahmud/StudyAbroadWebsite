@@ -10,29 +10,29 @@
     <div class = "parentFigureStyle">
         <figure>
           <img src="../assets/Krabi/sign.jpg">
-          <figcaption class = "text">Hike to Pai Canyon</figcaption>
+          <figcaption class = "text">View from the private beach at our hotel</figcaption>
         </figure>
         <figure>
           <img src="../assets/Krabi/sakar.jpg">  
-          <figcaption class = "text">Beautiful sunset</figcaption>
+          <figcaption class = "text">Enjoying the sun on a boat</figcaption>
         </figure>
         <figure>
           <img src="../assets/Krabi/mcboat.jpg">
-          <figcaption class = "text">View from my room</figcaption>
+          <figcaption class = "text">Fun boat tour flicks</figcaption>
         </figure>
     </div>
     <div class="parentFigureStyle">
       <figure>
         <img src="../assets/Krabi/cave.jpg">
-        <figcaption class = "text">Waterfall hike through the forest</figcaption>
+        <figcaption class = "text">The prettiest water I have ever laid eyes on.</figcaption>
       </figure>
       <figure>
         <img src="../assets/Krabi/boat.jpg">
-        <figcaption class = "text">Entrance to a hidden bar</figcaption>
+        <figcaption class = "text">View of the beautiful limestone cliffs</figcaption>
       </figure>
       <figure>
         <img src="../assets/Krabi/water.jpg">
-        <figcaption class = "text">Swimming under the waterfall</figcaption>
+        <figcaption class = "text">Swimming in the private pool</figcaption>
       </figure>
     </div>
     <div class="parentFigureStyle">
@@ -42,7 +42,7 @@
       </figure>
       <figure>
         <img src="../assets/Krabi/self.jpg">
-        <figcaption class = "text">Entrance to a hidden bar</figcaption>
+        <figcaption class = "text">Relaxing on a boat after midterms</figcaption>
       </figure>
     </div>
   

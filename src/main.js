@@ -14,6 +14,7 @@ import Bangkok from "./components/Bangkok.vue";
 import Chiang_Rai from "./components/Chiangrai.vue";
 import Samui from "./components/Samui.vue";
 import Krabi from "./components/Krabi.vue";
+import Thanks from "./components/Thankyou.vue";
 const router = createRouter({
     history: createWebHistory(),
     routes: [
@@ -29,6 +30,7 @@ const router = createRouter({
         { path: "/chiangrai", component: Chiang_Rai},
         { path: "/bangkok", component: Bangkok},
         { path: "/krabi", component: Krabi},
+        { path: "/thankyou", component: Thanks},
 
     ],
 });

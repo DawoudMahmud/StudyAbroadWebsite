@@ -17,6 +17,7 @@
   <router-link to="/krabi"> Krabi </router-link>
   <router-link to="/samui"> Koh Samui </router-link>
   <router-link to="/bangkok"> Bangkok </router-link>
+  <router-link to="/thankyou"> Thank You </router-link>
   <router-view></router-view>
 </div>
 

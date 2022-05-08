@@ -25,21 +25,21 @@
       </figure>
       <figure>
         <img src="../assets/Chiang_Rai/buddha.jpg">
-        <figcaption class = "text">Entrance to a hidden bar</figcaption>
+        <figcaption class = "text">Visiting Wat Huay Pla Kung, the Goddess of Mercy</figcaption>
       </figure>
       <figure>
         <img src="../assets/Chiang_Rai/robot.jpg">
-        <figcaption class = "text">Swimming under the waterfall</figcaption>
+        <figcaption class = "text">Kickin' it with the robot in front of the White Temple</figcaption>
       </figure>
     </div>
      <div class="parentFigureStyle">
       <figure>
         <img src="../assets/Chiang_Rai/fountain.jpg">
-        <figcaption class = "text">Waterfall hike through the forest</figcaption>
+        <figcaption class = "text">Decoration outside of the blue temple</figcaption>
       </figure>
       <figure>
         <img src="../assets/Chiang_Rai/hut.jpg">
-        <figcaption class = "text">Entrance to a hidden bar</figcaption>
+        <figcaption class = "text">Visiting Baan Dam (Black House), which is a combination of an art studio, a house, and a museum </figcaption>
       </figure>
     </div>
   
