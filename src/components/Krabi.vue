@@ -32,13 +32,13 @@
       </figure>
       <figure>
         <img src="../assets/Krabi/water.jpg">
-        <figcaption class = "text">Swimming in the private pool</figcaption>
+        <figcaption class = "text">More views of the longboats riding through the water between limestone cliffs</figcaption>
       </figure>
     </div>
     <div class="parentFigureStyle">
       <figure>
         <img src="../assets/Krabi/pool.jpg">
-        <figcaption class = "text">Waterfall hike through the forest</figcaption>
+        <figcaption class = "text">Swimming in the private pool</figcaption>
       </figure>
       <figure>
         <img src="../assets/Krabi/self.jpg">
