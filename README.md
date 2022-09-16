@@ -1,3 +1,5 @@
+Visit the final website at https://dawoud-studyabroad.netlify.app/ 
+
 # vue-http-basic
 
 ## Project setup
